@@ -1,2 +1,2 @@
-# huim-aco
-### High Utility Itemset Mining Using Ant Colony Optimisation
+# Chuim-ac
+### High Utility Itemset Mining Using Ant Colony system algorithm
