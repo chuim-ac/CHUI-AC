@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="huim-aco:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e26624d0-c7c9-46ba-843e-378e5455ceff" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__isula_isula_0_0_1_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BMS_utility_spmf/item_unit_profit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/BMS_utility_spmf/item_unit_profit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/base_test/item_unit_profit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/base_test/item_unit_profit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/chess_utility_spmf/item_unit_profit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/chess_utility_spmf/item_unit_profit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/connect_utility_spmf/item_unit_profit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/connect_utility_spmf/item_unit_profit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db_utility/item_unit_profit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/db_utility/item_unit_profit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/foodmart/item_unit_profit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/foodmart/item_unit_profit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mushroom_utility_spmf/item_unit_profit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/mushroom_utility_spmf/item_unit_profit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/retail_utility_spmf/item_unit_profit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/retail_utility_spmf/item_unit_profit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/huim_aco_jar/huim-aco.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/huim_aco_jar/huim-aco.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/base_test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/base_test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_HAUI/base_test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results_HAUI/base_test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/maths/huim/api/ItemParamMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maths/huim/api/ItemParamMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/maths/huim/driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maths/huim/driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/maths/huim/models/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maths/huim/models/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/maths/huim/runMAU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maths/huim/runMAU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/maths/huim/utils/AntRoutingGraphUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maths/huim/utils/AntRoutingGraphUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/maths/huim/utils/ItemTwuMapUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maths/huim/utils/ItemTwuMapUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/maths/huim/POC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/maths/huim/POC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/maths/huim/utils/AntRoutingGraphUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/maths/huim/utils/AntRoutingGraphUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stats/base_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/stats/base_test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stats/chess_utility_spmf.csv" beforeDir="false" afterPath="$PROJECT_DIR$/stats/chess_utility_spmf.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/maths/huim/driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/maths/huim/driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/maths/huim/models/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/maths/huim/models/Transaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/maths/huim/runMAU.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/maths/huim/runMAU.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/maths/huim/utils/AntRoutingGraphUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/maths/huim/utils/AntRoutingGraphUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/maths/huim/utils/ItemTwuMapUtils$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/maths/huim/utils/ItemTwuMapUtils$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/maths/huim/utils/ItemTwuMapUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/maths/huim/utils/ItemTwuMapUtils.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="huim-aco" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/base_test/transactions.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/results/base_test.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/driver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1156">
+              <caret line="77" selection-start-line="77" selection-end-line="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/utils/AntRoutingGraphUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1598">
+              <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/ItemUtilityTableImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>(Arra</find>
+      <find>(</find>
+      <find>)</find>
+      <find>1_8</find>
+      <find>Set</find>
+      <find>(Set</find>
+      <find>union</find>
+      <find>genChuiImpl</find>
+      <find>TID</find>
+      <find>sum</find>
+      <find>sumItem</find>
+      <find>itemUti</find>
+      <find>System.</find>
+      <find>20</find>
+      <find>visited</find>
+      <find>===</find>
+      <find>5230 5254 2045 931</find>
+      <find>antTrave</find>
+      <find>remove</find>
+      <find>Str</find>
+      <find>String</find>
+      <find>&quot;</find>
+      <find>Char</find>
+      <find>char</find>
+      <find>character</find>
+      <find>Character</find>
+      <find>system</find>
+      <find>itemS</find>
+      <find>itemSetCo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/maths/huim/models/TrieTest.java" />
+        <option value="$PROJECT_DIR$/huim-aco.iml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/maths/huim/utils/TrieUtilsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/POC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/models/TrieNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/models/GenChui.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/models/AntRoutingGraph.java" />
+        <option value="$PROJECT_DIR$/data/base_test/transactions.txt" />
+        <option value="$PROJECT_DIR$/data/retail_utility_spmf/backup.txt" />
+        <option value="$PROJECT_DIR$/data/BMS_utility_spmf/transactions.txt" />
+        <option value="$PROJECT_DIR$/data/mushroom_utility_SPMF/transactions.txt" />
+        <option value="$PROJECT_DIR$/data/foodmart/transactions.txt" />
+        <option value="$PROJECT_DIR$/data/connect_utility_spmf/transactions.txt" />
+        <option value="$PROJECT_DIR$/data/kosarak_utility_spmf/transactions.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/models/PathUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/models/ItemPropensity.java" />
+        <option value="$PROJECT_DIR$/data/db_utility/transactions.txt" />
+        <option value="$PROJECT_DIR$/data/retail_utility_spmf/transactions.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/models/ItemTransactionUtility.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/models/AntRoutingGraphNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/models/ItemUnitProfitMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/models/ItemUtilityTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/utils/ObjectSizeFetcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/models/ItemSetData.java" />
+        <option value="$PROJECT_DIR$/scripts/solaris_scripts.sh" />
+        <option value="$PROJECT_DIR$/results/connect_utility_spmf.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/MAUTableCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/impl/ItemTwuMapImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/dao/ItemUnitProfitMapDao.java" />
+        <option value="$PROJECT_DIR$/data/base_test/item_unit_profit.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/utils/TransactionUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/utils/MAUTableUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/dao/TransactionDao.java" />
+        <option value="$PROJECT_DIR$/results_HAUI/base_test.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/maths/huim/utils/AntRoutingGraphUtilsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/maths/huim/POC.java" />
+        <option value="$PROJECT_DIR$/results_HAUI/chess_utility_spmf.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/models/ItemTwuMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/api/ItemParamMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/runMAU.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/impl/ItemUtilityTableImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/models/Transaction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/models/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/utils/ItemTwuMapUtils.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/driver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/maths/huim/utils/AntRoutingGraphUtils.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="huim-aco" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="Xmx2048m" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="324" />
+    <option name="y" value="24" />
+    <option name="width" value="1305" />
+    <option name="height" value="705" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="huim-aco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huim-aco" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huim-aco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huim-aco" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huim-aco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huim-aco" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="base_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huim-aco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huim-aco" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="foodmart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huim-aco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huim-aco" type="462c0819:PsiDirectoryNode" />
+              <item name="results" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huim-aco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huim-aco" type="462c0819:PsiDirectoryNode" />
+              <item name="results_HAUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huim-aco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huim-aco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huim-aco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huim-aco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huim-aco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huim-aco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huim-aco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huim-aco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="huim" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huim-aco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huim-aco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="huim" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huim-aco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huim-aco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="huim" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huim-aco" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huim-aco" type="462c0819:PsiDirectoryNode" />
+              <item name="stats" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="Cons&#9;FILE&#9;file:///home/arnab/Documents/huim-aco/src/main/java/com/maths/huim/models/Constants.java&#10;Com&#9;PSI&#9;JAVA://com.sun.media.sound.SoftReverb.Comb&#10;AntR&#9;FILE&#9;file:///home/arnab/Documents/huim-aco/src/main/java/com/maths/huim/utils/AntRoutingGraphUtils.java&#10;Tra&#9;FILE&#9;file:///home/arnab/Documents/huim-aco/src/main/java/com/maths/huim/models/Transaction.java&#10;Transac&#9;FILE&#9;file:///home/arnab/Documents/huim-aco/src/main/java/com/maths/huim/utils/TransactionUtil.java&#10;Tr&#9;FILE&#9;file:///home/arnab/Documents/huim-aco/data/base_test/item_unit_profit.txt&#10;Con&#9;FILE&#9;file:///home/arnab/Documents/huim-aco/src/main/java/com/maths/huim/models/Constants.java&#10;Constants&#9;FILE&#9;file:///home/arnab/Documents/huim-aco/src/main/java/com/maths/huim/models/Constants.java&#10;drive&#9;FILE&#9;file:///home/arnab/Documents/huim-aco/src/main/java/com/maths/huim/driver.java&#10;Constan&#9;FILE&#9;file:///home/arnab/Documents/huim-aco/src/main/java/com/maths/huim/models/Constants.java&#10;Consta&#9;FILE&#9;file:///home/arnab/huim-aco/src/main/java/com/maths/huim/models/Constants.java&#10;AntRo&#9;FILE&#9;file:///home/arnab/huim-aco/src/main/java/com/maths/huim/utils/AntRoutingGraphUtils.java&#10;AntT&#9;FILE&#9;file:///home/arnab/huim-aco/src/test/java/com/maths/huim/utils/AntRoutingGraphUtilsTest.java&#10;driver&#9;FILE&#9;file:///home/arnab/huim-aco/src/main/java/com/maths/huim/driver.java&#10;AntRout&#9;FILE&#9;file:///home/arnab/huim-aco/src/main/java/com/maths/huim/utils/AntRoutingGraphUtils.java&#10;ItemUti&#9;PSI&#9;JAVA://com.maths.huim.models.ItemUtilityTable&#10;ItemUtili&#9;FILE&#9;file:///home/arnab/huim-aco/src/main/java/com/maths/huim/models/ItemUtilityTable.java&#10;A&#9;FILE&#9;file:///home/arnab/huim-aco/src/main/java/com/maths/huim/utils/AntRoutingGraphUtils.java&#10;Constant&#9;FILE&#9;file:///home/arnab/huim-aco/src/main/java/com/maths/huim/models/Constants.java&#10;dr&#9;FILE&#9;file:///home/arnab/huim-aco/src/main/java/com/maths/huim/driver.java&#10;driv&#9;FILE&#9;file:///home/arnab/huim-aco/src/main/java/com/maths/huim/driver.java&#10;AntG&#9;FILE&#9;file:///home/arnab/huim-aco/src/main/java/com/maths/huim/utils/AntRoutingGraphUtils.java&#10;C&#9;FILE&#9;file:///home/arnab/huim-aco/src/main/java/com/maths/huim/models/Constants.java&#10;P&#9;FILE&#9;file:///home/arnab/huim-aco/src/test/java/com/maths/huim/POC.java&#10;Path&#9;FILE&#9;file:///home/arnab/huim-aco/src/main/java/com/maths/huim/models/PathUtil.java&#10;POC&#9;FILE&#9;file:///home/arnab/huim-aco/src/test/java/com/maths/huim/POC.java&#10;Gen&#9;FILE&#9;file:///home/arnab/huim-aco/src/main/java/com/maths/huim/impl/GenChuiImpl.java&#10;GenChui&#9;FILE&#9;file:///home/arnab/huim-aco/src/main/java/com/maths/huim/models/GenChui.java&#10;Tid&#9;PSI&#9;JAVA://com.maths.huim.models.ItemTransactionUtility#tid&#10;ItemT&#9;FILE&#9;file:///home/arnab/huim-aco/src/main/java/com/maths/huim/impl/ItemUtilityTableImpl.java&#10;Trans&#9;FILE&#9;file:///home/arnab/huim-aco/src/main/java/com/maths/huim/models/ItemTransactionUtility.java&#10;selectNext&#9;PSI&#9;JAVA://com.maths.huim.utils.AntRoutingGraphUtils#selectNextNode&#10;Ant&#9;PSI&#9;JAVA://com.maths.huim.models.AntRoutingGraphNode" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611136429191" />
+    <property name="last_opened_file_path" value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/mushroom_utility_SPMF" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.maths.huim" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.maths.huim.models" />
+      <recent name="com.maths.huim.utils" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/kosarak_utility_spmf" />
+      <recent name="$PROJECT_DIR$/data/connect_utility_spmf" />
+      <recent name="$PROJECT_DIR$/data/foodmart" />
+      <recent name="$PROJECT_DIR$/data/mushroom_utility_SPMF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.driver">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MAUTableCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.maths.huim.MAUTableCalculator" />
+      <module name="huim-aco" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maths.huim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.maths.huim.driver" />
+      <module name="huim-aco" />
+      <option name="VM_PARAMETERS" value="-Xmx4096m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maths.huim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="runMAU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.maths.huim.runMAU" />
+      <module name="huim-aco" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maths.huim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POC.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="huim-aco" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maths.huim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.maths.huim" />
+      <option name="MAIN_CLASS_NAME" value="com.maths.huim.POC" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POC.sanityTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="huim-aco" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maths.huim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.maths.huim" />
+      <option name="MAIN_CLASS_NAME" value="com.maths.huim.POC" />
+      <option name="METHOD_NAME" value="sanityTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.driver" />
+      <item itemvalue="Application.MAUTableCalculator" />
+      <item itemvalue="Application.runMAU" />
+      <item itemvalue="JUnit.POC.sanityTest (1)" />
+      <item itemvalue="JUnit.POC.run" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.driver" />
+        <item itemvalue="Application.MAUTableCalculator" />
+        <item itemvalue="Application.runMAU" />
+        <item itemvalue="JUnit.POC.run" />
+        <item itemvalue="JUnit.POC.sanityTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e26624d0-c7c9-46ba-843e-378e5455ceff" name="Default" comment="" />
+      <created>1534055140755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534055140755</updated>
+      <workItem from="1534486013609" duration="10765000" />
+      <workItem from="1534568566674" duration="10826000" />
+      <workItem from="1534745272469" duration="1150000" />
+      <workItem from="1534763805941" duration="6090000" />
+      <workItem from="1534856008918" duration="19280000" />
+      <workItem from="1534940105454" duration="6964000" />
+      <workItem from="1535569966347" duration="3957000" />
+      <workItem from="1535735463692" duration="5777000" />
+      <workItem from="1535820770238" duration="10720000" />
+      <workItem from="1535865278896" duration="15549000" />
+      <workItem from="1535976073201" duration="3635000" />
+      <workItem from="1536243161163" duration="16345000" />
+      <workItem from="1536728899062" duration="3925000" />
+      <workItem from="1536733364769" duration="47000" />
+      <workItem from="1536794187645" duration="761000" />
+      <workItem from="1538061496084" duration="7944000" />
+      <workItem from="1538072785702" duration="5429000" />
+      <workItem from="1538078562113" duration="742000" />
+      <workItem from="1538082431161" duration="2682000" />
+      <workItem from="1538144696592" duration="3547000" />
+      <workItem from="1538150557569" duration="9195000" />
+      <workItem from="1538336059714" duration="295000" />
+      <workItem from="1539026648041" duration="15030000" />
+      <workItem from="1539111649240" duration="4200000" />
+      <workItem from="1539127914900" duration="3218000" />
+      <workItem from="1539168948310" duration="7802000" />
+      <workItem from="1540133539257" duration="626000" />
+      <workItem from="1540137239986" duration="16006000" />
+      <workItem from="1540169115119" duration="642000" />
+      <workItem from="1547554802563" duration="11023000" />
+      <workItem from="1549310433785" duration="5936000" />
+      <workItem from="1549376012784" duration="4425000" />
+      <workItem from="1549387330897" duration="2707000" />
+      <workItem from="1549463028113" duration="956000" />
+      <workItem from="1552207161677" duration="6232000" />
+      <workItem from="1552403129487" duration="5236000" />
+      <workItem from="1552725591800" duration="12731000" />
+      <workItem from="1554802922720" duration="652000" />
+      <workItem from="1555056945244" duration="1242000" />
+      <workItem from="1556798935934" duration="3666000" />
+      <workItem from="1557130711747" duration="1233000" />
+      <workItem from="1557132103216" duration="815000" />
+      <workItem from="1557205582292" duration="2431000" />
+      <workItem from="1557891523441" duration="620000" />
+      <workItem from="1557898137188" duration="6270000" />
+      <workItem from="1560949176686" duration="1207000" />
+      <workItem from="1561085136624" duration="4470000" />
+      <workItem from="1561306623872" duration="880000" />
+      <workItem from="1561528344443" duration="777000" />
+      <workItem from="1561817117692" duration="477000" />
+      <workItem from="1561828360985" duration="790000" />
+      <workItem from="1561862830335" duration="2728000" />
+      <workItem from="1561973859183" duration="1551000" />
+      <workItem from="1562041653048" duration="674000" />
+      <workItem from="1562728155535" duration="595000" />
+      <workItem from="1562820614594" duration="3174000" />
+      <workItem from="1562864283524" duration="609000" />
+      <workItem from="1562908214661" duration="1845000" />
+      <workItem from="1563012003607" duration="20419000" />
+      <workItem from="1563157640493" duration="67000" />
+      <workItem from="1563161726790" duration="6646000" />
+      <workItem from="1563195577849" duration="2254000" />
+      <workItem from="1563621236714" duration="7066000" />
+      <workItem from="1563845830523" duration="2449000" />
+      <workItem from="1563976376155" duration="2033000" />
+      <workItem from="1564022433766" duration="1234000" />
+      <workItem from="1564579320027" duration="1119000" />
+      <workItem from="1564976469379" duration="5037000" />
+      <workItem from="1565069863751" duration="3291000" />
+      <workItem from="1565264806493" duration="3335000" />
+      <workItem from="1565761895011" duration="1062000" />
+      <workItem from="1567173875873" duration="820000" />
+      <workItem from="1567318458983" duration="2167000" />
+      <workItem from="1567665609795" duration="34000" />
+      <workItem from="1567686915967" duration="614000" />
+      <workItem from="1567748108057" duration="5002000" />
+      <workItem from="1567829141862" duration="2670000" />
+      <workItem from="1567949501890" duration="6651000" />
+      <workItem from="1568088060314" duration="3459000" />
+      <workItem from="1568549282730" duration="2356000" />
+      <workItem from="1569610196806" duration="723000" />
+      <workItem from="1570845505474" duration="1405000" />
+      <workItem from="1572326717761" duration="859000" />
+      <workItem from="1574002317271" duration="91000" />
+      <workItem from="1578114915998" duration="704000" />
+      <workItem from="1588959385717" duration="1320000" />
+      <workItem from="1589646109042" duration="9955000" />
+      <workItem from="1589861683333" duration="4315000" />
+      <workItem from="1589902513835" duration="738000" />
+      <workItem from="1589903562658" duration="915000" />
+      <workItem from="1589952179351" duration="52000" />
+      <workItem from="1589952255987" duration="2053000" />
+      <workItem from="1589954336452" duration="3146000" />
+      <workItem from="1590215433174" duration="1119000" />
+      <workItem from="1590216589764" duration="658000" />
+      <workItem from="1590217281288" duration="680000" />
+      <workItem from="1590461631428" duration="157000" />
+      <workItem from="1590484260891" duration="97000" />
+      <workItem from="1590484392638" duration="205000" />
+      <workItem from="1590484626970" duration="1202000" />
+      <workItem from="1590485891106" duration="1671000" />
+      <workItem from="1590487644620" duration="1086000" />
+      <workItem from="1590488769935" duration="2557000" />
+      <workItem from="1590491476722" duration="985000" />
+      <workItem from="1590492509825" duration="79000" />
+      <workItem from="1590492622148" duration="90000" />
+      <workItem from="1590492748653" duration="199000" />
+      <workItem from="1590898181949" duration="372000" />
+      <workItem from="1590898613830" duration="43000" />
+      <workItem from="1590898705253" duration="4774000" />
+      <workItem from="1590905050385" duration="1104000" />
+      <workItem from="1590906233276" duration="6236000" />
+      <workItem from="1591083264344" duration="3690000" />
+      <workItem from="1591626452049" duration="542000" />
+      <workItem from="1591673496702" duration="702000" />
+      <workItem from="1591702864209" duration="593000" />
+      <workItem from="1591761181602" duration="5440000" />
+      <workItem from="1591883712866" duration="2086000" />
+      <workItem from="1591939976379" duration="5214000" />
+      <workItem from="1592021028165" duration="3339000" />
+      <workItem from="1592120735332" duration="759000" />
+      <workItem from="1592144298579" duration="3478000" />
+      <workItem from="1592197024768" duration="5004000" />
+      <workItem from="1592497697283" duration="3265000" />
+      <workItem from="1592539043201" duration="1350000" />
+      <workItem from="1594612598414" duration="49000" />
+      <workItem from="1601816879851" duration="25000" />
+      <workItem from="1605327148496" duration="10000" />
+      <workItem from="1608036263363" duration="192000" />
+      <workItem from="1608129278624" duration="1977000" />
+      <workItem from="1608133424623" duration="943000" />
+      <workItem from="1608180057272" duration="9052000" />
+      <workItem from="1608263578426" duration="1722000" />
+      <workItem from="1608297596448" duration="1879000" />
+      <workItem from="1608359558272" duration="867000" />
+      <workItem from="1608558496111" duration="621000" />
+      <workItem from="1609166585179" duration="603000" />
+      <workItem from="1609260921635" duration="648000" />
+      <workItem from="1609417547021" duration="6817000" />
+      <workItem from="1609472030856" duration="816000" />
+      <workItem from="1609474900583" duration="1208000" />
+      <workItem from="1609910407065" duration="1317000" />
+      <workItem from="1610112414390" duration="726000" />
+      <workItem from="1610820661600" duration="594000" />
+      <workItem from="1611077155874" duration="819000" />
+      <workItem from="1611116047861" duration="4086000" />
+      <workItem from="1611136477537" duration="4339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="POC_run - 2018.09.29 at 04h 28m 14s.xml">
+      <configuration name="POC.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="POC_run - 2018.09.29 at 04h 29m 00s.xml">
+      <configuration name="POC.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="POC_run - 2018.09.29 at 04h 29m 52s.xml">
+      <configuration name="POC.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="POC_run - 2018.09.29 at 04h 33m 45s.xml">
+      <configuration name="POC.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="POC_run - 2018.09.29 at 04h 40m 38s.xml">
+      <configuration name="POC.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="POC_run - 2018.09.29 at 04h 43m 32s.xml">
+      <configuration name="POC.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="POC_run - 2018.09.29 at 04h 45m 24s.xml">
+      <configuration name="POC.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="POC_run - 2018.09.29 at 04h 45m 40s.xml">
+      <configuration name="POC.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="POC_run - 2018.09.29 at 04h 48m 25s.xml">
+      <configuration name="POC.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="POC_run - 2018.09.29 at 04h 50m 17s.xml">
+      <configuration name="POC.run" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="488833000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Capture Tool" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.32955465" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.10040486" />
+      <window_info id="Structure" order="5" weight="0.24858299" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5002764" side_tool="true" weight="0.4920071" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.3294979" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.4997236" weight="0.32149202" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.3294979" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.4997236" weight="0.669627" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.39958158" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.3285968" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.32955465" />
+      <window_info anchor="right" id="Database" order="1" weight="0.32874495" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32946378" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.24939272" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/isula" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>93</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/GenChuiImpl.java</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/models/ItemUtilityTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/api/InputDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/api/ItemParamMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/models/ItemUnitProfitMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/dao/ItemUnitProfitMapDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/BMS_utility_spmf/item_unit_profit.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8016" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/connect_utility_spmf/transactions.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/connect_utility_spmf/item_unit_profit.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/runMAU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="93" column="39" selection-start-line="93" selection-start-column="39" selection-end-line="93" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stats/chess_utility_spmf.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stats/BMS_utility_spmf.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/dao/TransactionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/chainstore1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55420">
+          <caret line="3331" selection-start-line="3331" selection-end-line="3331" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/utils/ItemTwuMapUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/BMS_utility_spmf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-368603" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/foodmart.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2006">
+          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stats/mushroom_utility_spmf.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-413" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/mushroom_utility_spmf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8597">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/chainstore.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chainstore1/transactions.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chainstore5/transactions.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stats/chainstore.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chain4/transactions4.txt" />
+    <entry file="file://$PROJECT_DIR$/data/chainstore2/transactions.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/MAUTableCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chain1/item_unit_profit.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chain2/transactions.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chain2/item_unit_profit.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chain3/item_unit_profit.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chainstore/item_unit_profit.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/retail_utility_spmf/transactions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="88161" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/BMS_utility_spmf/transactions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="59601" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chain4/item_unit_profit.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/chess_utility_spmf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="96" column="50" selection-start-line="96" selection-start-column="50" selection-end-line="96" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stats/base_test.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chainstore/transactions.txt">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="3775">
+          <caret line="14364" column="82" selection-start-line="14364" selection-start-column="82" selection-end-line="14364" selection-end-column="82" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="357">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chainstore1/item_unit_profit.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/models/Transaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="733">
+          <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/models/ItemTransactionUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chess_utility_spmf/transactions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48042">
+          <caret line="2826" column="33" selection-start-line="2826" selection-start-column="33" selection-end-line="2826" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/mushroom_utility_spmf/transactions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="44" selection-end-line="8123" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/models/GenChui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-491">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/foodmart/transactions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/base_test/transactions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/base_test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/impl/ItemUtilityTableImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/maths/huim/utils/AntRoutingGraphUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1598">
+          <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>huim-aco:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_171</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>huim-aco</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: isula:isula:0.0.1-SNAPSHOT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
