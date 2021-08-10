@@ -76,7 +76,7 @@ public class driver {
         AntRoutingGraph antRoutingGraph = antRoutingGraphUtils.bootstrapAntGraph(itemTwuMap);
        System.out.println(antRoutingGraph);
 
-        System.out.println("Mining HUIs...\n");
+        System.out.println("Mining CHUIs...\n");
         Map<List<Integer>, ItemSetData> itemSetCountMap = new HashMap<List<Integer>, ItemSetData>();
         long keyCount = itemTwuMap.getMap().keySet().size();
         itemTwuMap = null;
@@ -88,12 +88,12 @@ public class driver {
             fileWriter = new FileWriter("stats/" + directories[index - 1] + ".csv");
             bufferedWriter = new BufferedWriter(fileWriter);
             System.out.println("Total node count : " + keyCount + "\n");
-            bufferedWriter.write("iterations, items_explored, HUIs_mined, Time_elapsed\n");
+            bufferedWriter.write("iterations, items_explored, CHUIs_mined, Time_elapsed\n");
             antRoutingGraphUtils.computeHUIs(antRoutingGraph, bufferedWriter, itemUtilityTableMap, itemSetCountMap, beforeTime);
             bufferedWriter.flush();
             bufferedWriter.close();
             fileWriter.close();
-            System.out.println("HUIs mined... creating output\n");
+            System.out.println("CHUIs mined... creating output\n");
 
         } catch (IOException e) {
             e.printStackTrace();
